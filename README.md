@@ -1,6 +1,6 @@
 # Alurapic
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+Project cloned from Alura coursers, the main idea was to use the Alurapic project for creating some simple Protractor e2e tests. The protractor tests can be found in the e2e folder.
 
 ## Development server
 
